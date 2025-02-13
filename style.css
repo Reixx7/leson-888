@@ -584,6 +584,7 @@ line-height: 19.2px;
     }
     .content{
         gap: 20px;
+        align-items: center;
     }
     .header-content_img img{
         margin-top: 20px;
